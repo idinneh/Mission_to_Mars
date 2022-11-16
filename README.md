@@ -20,4 +20,4 @@ The month with the lowest atmospheric pressure is the sixth month while the mont
 
 ### How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. 
 
-![Number of Terrestrial days in Martian year](Resources/Number of Terrestrial days in Martian year.png)
+![number_of_terrestrial_days_in_martian_year](Resources/number_of_terrestrial_days_in_martian_year.png)
