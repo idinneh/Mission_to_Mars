@@ -19,3 +19,5 @@ The coldest month on Mars is the third month while the warmest month on Mars is 
 The month with the lowest atmospheric pressure is the sixth month while the month with the highest atmospheric pressure is the ninth month.
 
 ### How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. 
+
+![Number of Terrestrial days in Martian year](Resources/Number of Terrestrial days in Martian year.png)
